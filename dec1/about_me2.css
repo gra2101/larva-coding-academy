@@ -1,0 +1,12 @@
+/*multiple classes*/
+.div1{
+    color: white;
+    background-color: blue;
+    font-size:large;
+    
+}
+
+.div1#food{
+    background-color: orange;
+}
+

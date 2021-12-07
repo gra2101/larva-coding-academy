@@ -1,0 +1,65 @@
+body{
+    background-image: url("images/web.png");
+   
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    display: inline;
+    margin-left: 25px;
+    color: white;
+}
+header{
+    margin-top: 2%;
+}
+nav{
+    display: inline;
+    font-size: 14px;
+    margin-left: 40%;
+}
+nav a{
+    text-decoration: none;
+    padding-left: 30px;
+    color: white;
+    
+}
+.hello{
+   margin-top: 13%;
+}
+.name{
+    margin-top: 5px;
+}
+.paragraph{
+    margin-top: 5px;
+    font-size: 17px;
+}
+.bottom-links{
+    margin-top: 4%;
+    
+}
+.special{
+    margin-left: 3%;
+}
+.redspan{
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: white;
+}
+.bottom-links a{
+    background-color: crimson;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 14px;
+    font-size: 17px;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+p{
+    color: white;
+}
+.outter{
+    margin-left: 25px;
+}

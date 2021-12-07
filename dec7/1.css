@@ -1,0 +1,16 @@
+div{
+    border-radius: 5px;
+    margin: 50px;
+    height: 200px;
+    border: 3px solid grey;
+    width: 400px;
+    display: inline-block;
+    padding: 10px 20px;
+    /* for 4 values, it goes clockwise e.g 10 20 30 40 top right bottom left */
+   
+}
+span{
+    background-color: blue;
+    margin-left: 10px;
+    padding-top: 50px;
+}

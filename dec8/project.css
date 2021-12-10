@@ -1,0 +1,54 @@
+nav{
+    margin-top: 1%;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-family:monospace;
+    margin-right: 20px;
+}
+a:hover{
+    text-decoration: 2px underline black;
+}
+i:hover{
+    background-color: rgb(27, 27, 27);
+    color: white;
+    border-radius: 50%;
+}
+h2{
+    margin-top: 3%;
+}
+
+.h5{
+
+    text-align: center;
+    border-top: 2px solid grey;
+    border-bottom: 2px solid grey;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 4%;
+  
+}
+/* .bottom-div{
+    display: inline;
+    border: 2px solid grey;
+    width: 30%;
+} */
+ .div1{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 33.0%;
+    border-right: 2px solid rgb(161, 159, 159,0.65);
+    text-align: center;
+   
+} 
+/* .i{
+    padding-top: 10px;
+} */
+hr{
+    width: 20%;
+    font-weight: 100;
+    color: grey;
+   
+}

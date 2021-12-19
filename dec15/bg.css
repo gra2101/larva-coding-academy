@@ -1,0 +1,14 @@
+section{
+    width: 70%;
+    height: 500px;
+   /* background-image: url("/dec7/images/web.png");
+   background-size: AUTO 75%;
+   background-repeat: no-repeat;
+   background-color: palevioletred;
+  border: 6PX SOLID BLACK;
+  background-clip: content-box;
+  background-origin:content-box;
+  padding: 20PX; */
+ 
+   background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); 
+}

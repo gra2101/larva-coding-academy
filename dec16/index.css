@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+nav{
+    text-align: center;
+    margin-top: 2%;
+
+}
+nav a{
+    text-decoration: none;
+}
+.span-left{
+
+}
+.span-middle{
+color: gray;
+}
+.span-middle:hover{
+    color: white;
+}
+.span-right{
+
+}
+.special{
+    background-color: rgb(21, 104, 143);
+    color: white;
+    
+}
+.white{
+    color: white;
+}
+.grey{
+    color: gray;
+}
+section{
+    text-align: center;
+    
+}
+.inner-div{
+    display: inline-block;
+    border: 2px solid white;
+    width: 26%;
+    margin-top: 3%;
+}
+.inner-div:hover{
+    background-color: rgb(21, 104, 143);
+    color: white;
+}

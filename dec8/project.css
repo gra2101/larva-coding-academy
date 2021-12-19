@@ -1,5 +1,6 @@
 nav{
-    margin-top: 1%;
+   margin: 0 auto;
+  text-align: center;
 }
 nav a{
     text-decoration: none;
@@ -16,36 +17,39 @@ i:hover{
     color: white;
     border-radius: 50%;
 }
-h2{
+.p{
     margin-top: 3%;
+    line-height: 45px;
+    text-align: center;
+    font-size: x-large;
 }
 
 .h5{
 
     text-align: center;
-    border-top: 2px solid grey;
-    border-bottom: 2px solid grey;
+    border-top: 2px solid rgba(177, 174, 174, 0.733);
+    border-bottom: 2px solid rgba(177, 174, 174, 0.733);
     padding-top: 1%;
     padding-bottom: 1%;
-    margin-top: 4%;
+    margin-top: 3%;
   
 }
-/* .bottom-div{
-    display: inline;
-    border: 2px solid grey;
-    width: 30%;
-} */
- .div1{
+.container{
+    border-right: 2px solid grey;
+    display: inline-block;
+    width: 32.8%;
+    background-color: lightblue;
+    text-align: center;
+}
+ /* .div1{
     box-sizing: border-box;
     display: inline-block;
     width: 33.0%;
-    border-right: 2px solid rgb(161, 159, 159,0.65);
+    
     text-align: center;
    
-} 
-/* .i{
-    padding-top: 10px;
-} */
+}  */
+
 hr{
     width: 20%;
     font-weight: 100;

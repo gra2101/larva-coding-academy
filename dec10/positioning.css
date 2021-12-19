@@ -1,0 +1,28 @@
+img{
+    float: right;
+}
+p{
+    background-color: green;
+}
+h1{
+    float: left;
+}
+section{
+    display: inline-block;
+    background-color: blue;
+    width: 25%;
+}
+/* #spec{
+    position: relative;
+    top: 10px;
+    left: 10px;
+} */
+
+.sec{
+position:absolute;
+top: 0px;
+left: 0px;
+width:40%;
+height:80%;
+}
+

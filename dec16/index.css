@@ -2,29 +2,48 @@ body{
     background-color: black;
 }
 nav{
-    text-align: center;
-    margin-top: 2%;
+   
+    margin-top: 2%;  
 
 }
 nav a{
     text-decoration: none;
+    color:grey;
+    font-size: 14px;
+   font-weight: bold;
 }
-.span-left{
+.a-left{
+  color: white;
+  margin-left: 4%;
+}
+.a-middle{
+color: gray;
 
 }
-.span-middle{
-color: gray;
-}
-.span-middle:hover{
+.a-middle:hover{
     color: white;
 }
-.span-right{
-
-}
+.a-right{
+    color: white;
+    padding-left: 5px;
+  }
 .special{
     background-color: rgb(21, 104, 143);
     color: white;
-    
+    text-decoration: none;  
+    border-radius: 50px;
+    padding: 7px;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+.div-middle{
+    display: inline;
+    margin-left:32%;
+}
+.div-right{
+    display: inline;
+    margin-left:26%;
 }
 .white{
     color: white;
@@ -32,17 +51,40 @@ color: gray;
 .grey{
     color: gray;
 }
-section{
+.section1{
+    margin-top: 5%;
     text-align: center;
-    
+}
+.special1{
+    display: inline-block;
+    margin-top: 1%;
+    background-color: rgb(21, 104, 143);
+    color: white;
+    text-decoration: none;  
+    border-radius: 50px;
+    padding: 7px;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 .inner-div{
     display: inline-block;
     border: 2px solid white;
-    width: 26%;
-    margin-top: 3%;
+    width: 31%;
+    margin-right: 10px;
+    border-radius: 6%;
 }
 .inner-div:hover{
     background-color: rgb(21, 104, 143);
     color: white;
+    border: 2px solid rgb(21, 104, 143);
 }
+
+.inner-section {
+    margin-left: 7%;
+    width: 90%;
+    
+}
+/* .inner-section{
+   margin-left: 14%;
+   
+} */
